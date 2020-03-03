@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC6910
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6910fb.pdf
+$ENDCMP
+#
+#End Doc Library
