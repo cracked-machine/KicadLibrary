@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MonoJack2Switch
+D Mono audio jack with tip and sleeve NC switches
+$ENDCMP
+#
+#End Doc Library

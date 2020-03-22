@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS6-xxxxD
+D 6 Watt SIP8 Single and Dual Output Regulated Converters
+F https://www.mouser.co.uk/datasheet/2/468/RS6-1006283.pdf
+$ENDCMP
+#
+$CMP RS6-xxxxS
+D 6 Watt SIP8 Single and Dual Output Regulated Converters
+F https://www.mouser.co.uk/datasheet/2/468/RS6-1006283.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RKZE-xxxxS
+D 2 Watt SIP7 Single and Dual Output Unregulated Converters
+F https://recom-power.com/pdf/Econoline/RKZE.pdf
+$ENDCMP
+#
+#End Doc Library

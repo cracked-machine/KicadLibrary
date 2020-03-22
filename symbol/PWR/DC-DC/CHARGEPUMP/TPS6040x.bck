@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TPS60400
+D Unregulated 60-mA Charge Pump Voltage Inverter
+F http://www.ti.com/lit/ds/symlink/tps60402.pdf
+$ENDCMP
+#
 #End Doc Library

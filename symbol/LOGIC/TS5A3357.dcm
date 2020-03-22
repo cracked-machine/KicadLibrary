@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS5A3357
+D Single 5-Ω SP3T Analog Switch 5-V/3.3-V 3:1 Multiplexer/Demultiplexer
+F http://www.ti.com/lit/ds/symlink/ts5a3357.pdf
+$ENDCMP
+#
+#End Doc Library
