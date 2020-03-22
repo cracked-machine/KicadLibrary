@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP2361
+D GaAAs Infrared LED & Photo IC, SO6
+K High Speed Schmitt Optocoupler
+F https://datasheet.lcsc.com/szlcsc/TOSHIBA-TLP2361-V4-TPL-E_C123773.pdf
+$ENDCMP
+#
+#End Doc Library
