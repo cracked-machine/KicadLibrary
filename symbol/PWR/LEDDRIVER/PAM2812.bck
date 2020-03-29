@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAM2812
+D 4-CHANNEL LOW DROPOUT CURRENT SINK
+F https://docs.rs-online.com/eeb3/0900766b81268ced.pdf
+$ENDCMP
+#
+#End Doc Library
