@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DG470
+F https://www.vishay.com/docs/71470/dg469.pdf
+$ENDCMP
+#
+$CMP DG470_1
+D High Voltage, Single and Dual Supply SPDT Analog Switch with Enable Pin
+F https://www.vishay.com/docs/71470/dg469.pdf
+$ENDCMP
+#
+$CMP DG470_2
+D High Voltage, Single and Dual Supply SPDT Analog Switch with Enable Pin
+F https://www.vishay.com/docs/71470/dg469.pdf
+$ENDCMP
+#
+#End Doc Library
