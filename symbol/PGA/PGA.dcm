@@ -4,4 +4,12 @@ $CMP LTC6910
 F https://www.analog.com/media/en/technical-documentation/data-sheets/6910fb.pdf
 $ENDCMP
 #
+$CMP THS7001
+F https://www.ti.com/lit/ds/slos214c/slos214c.pdf
+$ENDCMP
+#
+$CMP THS7002
+F https://www.ti.com/lit/ds/slos214c/slos214c.pdf?ts=1590505355287
+$ENDCMP
+#
 #End Doc Library
