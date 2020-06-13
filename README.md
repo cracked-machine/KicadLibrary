@@ -1,4 +1,4 @@
-## Contents
+This repository contains custom Kicad symbols and footprints not found in OOTB Kicad library. 
 
 <!DOCTYPE html>
 <html>
