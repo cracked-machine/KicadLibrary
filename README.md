@@ -5,8 +5,8 @@
 
 <body>
 	<pre>
-	├── <a class="DIR" href="/footprint/">footprint</a><br>
-	│   ├── <a class="DIR" href="/footprint/CONNECTORS/">CONNECTORS</a><br>
+	├── <a class="DIR" href="/footprint/">footprint</a>
+	│   ├── <a class="DIR" href="/footprint/CONNECTORS/">CONNECTORS</a>
 	│   │   ├── <a class="DIR" href="/footprint/CONNECTORS/AUDIO/">AUDIO</a><br>
 	│   │   ├── <a class="DIR" href="/footprint/CONNECTORS/COAX/">COAX</a><br>
 	│   │   └── <a class="DIR" href="/footprint/CONNECTORS/POWER/">POWER</a><br>
