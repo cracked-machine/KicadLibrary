@@ -4,7 +4,7 @@
 <html>
 
 <body>
-	<h1>Directory Tree</h1><p><br>
+	<pre>
 	├── <a class="DIR" href="/footprint/">footprint</a><br>
 	│   ├── <a class="DIR" href="/footprint/CONNECTORS/">CONNECTORS</a><br>
 	│   │   ├── <a class="DIR" href="/footprint/CONNECTORS/AUDIO/">AUDIO</a><br>
@@ -38,18 +38,7 @@
 	&nbsp;&nbsp;&nbsp; │   &nbsp;&nbsp;&nbsp; └── <a class="DIR" href="/symbol/PWR/REG/VREF/">VREF</a><br>
 	&nbsp;&nbsp;&nbsp; └── <a class="DIR" href="/symbol/SW/">SW</a><br>
 	<br><br>
-	</p>
-	<p>
-
-34 directories
-	<br><br>
-	</p>
-	<hr>
-	<p class="VERSION">
-		 tree v1.8.0 © 1996 - 2018 by Steve Baker and Thomas Moore <br>
-		 HTML output hacked and copyleft © 1998 by Francesc Rocher <br>
-		 JSON output hacked and copyleft © 2014 by Florian Sesser <br>
-		 Charsets / OS/2 support © 2001 by Kyosuke Tokoro
-	</p>
+	
+</pre>
 </body>
 </html>
