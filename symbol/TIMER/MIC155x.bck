@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC1555-YD5
+D IttyBitty® RC Timer/Oscillator TSOT-23-5
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic1555.pdf
+$ENDCMP
+#
+$CMP MIC1555-YM5
+D IttyBitty® RC Timer/Oscillator - SOT-23-5
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic1555.pdf
+$ENDCMP
+#
+$CMP MIC1555-YMU
+D IttyBitty® RC Timer/Oscillator - DFN-10_2x2mm_P0.4mm
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic1555.pdf
+$ENDCMP
+#
+$CMP MIC1557-YD5
+D IttyBitty® RC Timer/Oscillator TSOT-23-5
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic1555.pdf
+$ENDCMP
+#
+$CMP MIC1557-YM5
+D IttyBitty® RC Timer/Oscillator SOT-23-5
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic1555.pdf
+$ENDCMP
+#
+#End Doc Library
