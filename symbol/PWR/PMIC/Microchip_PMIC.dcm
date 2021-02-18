@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP16502TAC
+D High-Performance PMIC for SAMA5DX/SAM9X6/SAMA7G Series MPUs
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20006275C.pdf
+$ENDCMP
+#
+#End Doc Library
