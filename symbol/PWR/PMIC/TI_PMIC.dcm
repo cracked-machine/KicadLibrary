@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS650250
+D PowerManagementIC (PMIC)for SoCs and MultirailSubsystems
+F https://www.ti.com/lit/ds/symlink/tps650250.pdf
+$ENDCMP
+#
+#End Doc Library
