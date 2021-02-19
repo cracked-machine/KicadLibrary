@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PF3001
+D Power management integrated circuit (PMIC) for i.MX 7 and i.MX 6 SoloLite/SoloX/UltraLite processors
+F https://www.nxp.com/docs/en/data-sheet/PF3001.pdf
+$ENDCMP
+#
+#End Doc Library
