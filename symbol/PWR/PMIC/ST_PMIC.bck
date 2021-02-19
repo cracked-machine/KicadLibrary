@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STPMIC1
+D Highly integrated power management IC for micro processor units
+F https://www.mouser.co.uk/datasheet/2/389/stpmic1-1621294.pdf
+$ENDCMP
+#
+#End Doc Library
