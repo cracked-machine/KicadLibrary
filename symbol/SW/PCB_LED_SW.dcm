@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCB-SPST_RGB-LED-Counter-Clockwise
+D Hybrid 6-Pin LED and SPST. Not an integrated circuit
+$ENDCMP
+#
+#End Doc Library

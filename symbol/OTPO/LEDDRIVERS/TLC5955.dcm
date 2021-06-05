@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC5955DCA_HTSSOP56
+F https://www.ti.com/lit/ds/symlink/tlc5955.pdf
+$ENDCMP
+#
+$CMP TLC5955RTQ_QFN56
+F https://www.ti.com/lit/ds/symlink/tlc5955.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP5587-ACBZ_WLCSP25
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5587.pdf
+$ENDCMP
+#
+$CMP ADP5587-ACPZ_LFCSP24
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP5587.pdf
+$ENDCMP
+#
+#End Doc Library
