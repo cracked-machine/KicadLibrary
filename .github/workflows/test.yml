@@ -31,6 +31,8 @@ jobs:
           echo tree -d -L 2 > README.md
           pushd symbol && echo tree >> README.md && popd
           pushd footprint && echo tree >> README.md && popd
+          git config --global user.email "chrisjsutton@gmail.com"
+          git config --global user.name "cracked-machine"
           git add .
           git commit -m "Updating readme with directory listings"
           git fetch origin master
