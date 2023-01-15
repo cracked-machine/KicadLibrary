@@ -83,33 +83,71 @@
 │       └── custom_sw.pretty
 └── symbol
     ├── AUDIOCONVERTERS
+    │   └── CirrusAudioConverters.lib
     ├── CONNECTOR
     │   ├── AUDIO
+    │   │   ├── MonoJack2Switch.lib
+    │   │   └── audiojack2-connector_numbered.lib
     │   └── MIDI
+    │       └── MidiDin5.lib
     ├── ENCODER
     │   └── RotaryEncoder
+    │       └── RotaryEncoder.lib
     ├── INTERFACE
+    │   └── ADP5587.lib
     ├── LOGIC
+    │   ├── ADG2188.lib
+    │   ├── DG46x.lib
+    │   ├── DG470.lib
+    │   ├── SN74LVC1G3157.lib
+    │   └── TS5A3357.lib
     ├── MCU
+    │   ├── STM32G031.lib
+    │   ├── STM32G0B1.lib
+    │   └── STM32G4.lib
     ├── MPU
     │   └── STM32MP1
+    │       └── STM32MP15x.lib
     ├── OTPO
     │   ├── ISOLATORS
+    │   │   └── TLP2361.lib
     │   └── LEDDRIVERS
+    │       ├── HT16K33.lib
+    │       └── TLC5955.lib
     ├── PGA
+    │   └── PGA.lib
     ├── PWR
     │   ├── DC-DC
     │   │   ├── CHARGEPUMP
+    │   │   │   ├── NCP1729.lib
+    │   │   │   └── TPS6040x.lib
     │   │   └── ISOLATED
+    │   │       ├── RecomRKZE.lib
+    │   │       ├── RecomRS6.lib
+    │   │       ├── TracoTRN1.lib
+    │   │       ├── XP_ISA.lib
+    │   │       └── XP_JTF.lib
     │   ├── LEDDRIVER
+    │   │   └── PAM2812.lib
     │   ├── LOADSW
+    │   │   └── SiP3250x.lib
     │   ├── PMIC
+    │   │   ├── Microchip_PMIC.lib
+    │   │   ├── NXP_PMIC.lib
+    │   │   ├── ST_PMIC.lib
+    │   │   └── TI_PMIC.lib
     │   └── REG
     │       ├── LDO
+    │       │   ├── MIC5233.lib
+    │       │   ├── MIC5270YM5.lib
+    │       │   └── TC59.lib
     │       └── VREF
     ├── SW
+    │   ├── PCB_LED_SW.lib
+    │   └── Tactile_SPST-NO.lib
     └── TIMER
+        └── MIC155x.lib
 
-108 directories
+108 directories, 38 files
 
 ```
