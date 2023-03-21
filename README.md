@@ -35,6 +35,7 @@
 │   │       ├── MolexUSB_TypeC.pretty
 │   │       └── USB_Plug_ConnectorLess.pretty
 │   ├── DISPLAYS
+│   │   ├── 128x64_0_96InchOLED.pretty
 │   │   └── ILI9341_TFTLCD.pretty
 │   ├── ENCLOSURES
 │   │   └── HAMMOND
@@ -149,6 +150,6 @@
     └── TIMER
         └── MIC155x.lib
 
-108 directories, 39 files
+109 directories, 39 files
 
 ```
