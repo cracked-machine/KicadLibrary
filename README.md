@@ -36,7 +36,8 @@
 │   │       └── USB_Plug_ConnectorLess.pretty
 │   ├── DISPLAYS
 │   │   ├── 128x64_0_96InchOLED.pretty
-│   │   └── ILI9341_TFTLCD.pretty
+│   │   ├── ILI9341_TFTLCD.pretty
+│   │   └── SSD1306_0.96_Oled.pretty
 │   ├── ENCLOSURES
 │   │   └── HAMMOND
 │   │       └── Hammond1590.pretty
@@ -150,6 +151,6 @@
     └── TIMER
         └── MIC155x.lib
 
-109 directories, 39 files
+110 directories, 39 files
 
 ```
