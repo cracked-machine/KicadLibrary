@@ -6,6 +6,7 @@
 │       └── 1590B.dxf
 ├── footprint
 │   ├── BATTERY
+│   │   ├── GenericCoinCellHolders.pretty
 │   │   └── Panasonic_ML_series.pretty
 │   ├── BGA
 │   │   └── STM32MP151_LFBGA.pretty
@@ -151,6 +152,6 @@
     └── TIMER
         └── MIC155x.lib
 
-110 directories, 39 files
+111 directories, 39 files
 
 ```
