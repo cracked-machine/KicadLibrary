@@ -141,6 +141,7 @@
     │   │   ├── ST_PMIC.lib
     │   │   └── TI_PMIC.lib
     │   └── REG
+    │       ├── CHARGEPUMP
     │       ├── LDO
     │       │   ├── MIC5233.lib
     │       │   ├── MIC5270YM5.lib
@@ -152,6 +153,6 @@
     └── TIMER
         └── MIC155x.lib
 
-111 directories, 39 files
+112 directories, 39 files
 
 ```
