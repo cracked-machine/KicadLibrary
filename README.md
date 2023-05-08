@@ -46,7 +46,9 @@
 │   │   ├── Adafruit Trellis 4x4 3mm HT16K33.pretty
 │   │   ├── KEYPADS
 │   │   │   └── KEYPADS.pretty
-│   │   └── TinyNetTies.pretty
+│   │   ├── TinyNetTies.pretty
+│   │   └── TinyTetspoints
+│   │       └── TinyTestPoints.pretty
 │   ├── MODULES
 │   │   ├── DISPLAYS
 │   │   │   ├── 0.96inch_OLED_SSD1306.pretty
@@ -153,6 +155,6 @@
     └── TIMER
         └── MIC155x.lib
 
-112 directories, 39 files
+114 directories, 39 files
 
 ```
