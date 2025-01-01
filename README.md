@@ -15,6 +15,7 @@
 │   │   │   ├── Jack_TRRS_3.pretty
 │   │   │   ├── NeutrikNMJ.pretty
 │   │   │   ├── NeutrikNRJ.pretty
+│   │   │   ├── RCAJack.pretty
 │   │   │   └── ThonkiConn_3.pretty
 │   │   ├── COAX
 │   │   │   └── RSProStraight50OhmPCBMountBulkheadFittingBNC_5260279
@@ -78,6 +79,8 @@
 │   ├── RF
 │   │   └── PCB_Antenna
 │   │       └── PCB_Antenna.pretty
+│   ├── SOT
+│   │   └── SOT-23-THIN-14.pretty
 │   └── SWITCHES
 │       ├── DailywellSwitches.pretty
 │       ├── JS_Series_Sub-Miniature_Slide_Switches
@@ -155,6 +158,6 @@
     └── TIMER
         └── MIC155x.lib
 
-115 directories, 39 files
+118 directories, 39 files
 
 ```
