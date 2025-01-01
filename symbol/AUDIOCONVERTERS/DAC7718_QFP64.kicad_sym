@@ -74,7 +74,7 @@
 				)
 			)
 			(pin power_in line
-				(at -1.27 36.83 270)
+				(at 1.27 36.83 270)
 				(length 5.08)
 				(name "AVDD[2]"
 					(effects
@@ -128,7 +128,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 -39.37 90)
+				(at 3.81 36.83 270)
 				(length 5.08)
 				(name "AVSS[2]"
 					(effects
@@ -362,7 +362,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.27 36.83 270)
+				(at -1.27 36.83 270)
 				(length 5.08)
 				(name "DVDD[2]"
 					(effects
@@ -380,7 +380,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.27 -39.37 90)
+				(at 2.54 -39.37 90)
 				(length 5.08)
 				(name "DGND[3]"
 					(effects
@@ -434,7 +434,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 -39.37 90)
+				(at 2.54 -39.37 90)
 				(length 5.08) hide
 				(name "DGND[3]"
 					(effects
@@ -614,7 +614,7 @@
 				)
 			)
 			(pin passive line
-				(at 3.81 -39.37 90)
+				(at 3.81 36.83 270)
 				(length 5.08) hide
 				(name "AVSS[2]"
 					(effects
@@ -686,7 +686,7 @@
 				)
 			)
 			(pin power_in line
-				(at -1.27 -39.37 90)
+				(at 0 -39.37 90)
 				(length 5.08)
 				(name "AGND-B[2]"
 					(effects
@@ -704,7 +704,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 -39.37 90)
+				(at 0 -39.37 90)
 				(length 5.08) hide
 				(name "AGND-B[2]"
 					(effects
@@ -830,7 +830,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 36.83 270)
+				(at 1.27 36.83 270)
 				(length 5.08) hide
 				(name "AVDD[2]"
 					(effects
@@ -884,7 +884,7 @@
 				)
 			)
 			(pin input inverted
-				(at -24.13 -27.94 0)
+				(at -24.13 -22.86 0)
 				(length 5.08)
 				(name "~{USB/BTC}"
 					(effects
@@ -956,7 +956,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 -39.37 90)
+				(at 2.54 -39.37 90)
 				(length 5.08) hide
 				(name "DGND[3]"
 					(effects
@@ -974,7 +974,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 36.83 270)
+				(at -3.81 36.83 270)
 				(length 5.08)
 				(name "IOVDD"
 					(effects
@@ -992,7 +992,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 36.83 270)
+				(at -1.27 36.83 270)
 				(length 5.08) hide
 				(name "DVDD[2]"
 					(effects
@@ -1118,7 +1118,7 @@
 				)
 			)
 			(pin input inverted
-				(at -24.13 -22.86 0)
+				(at -24.13 -10.16 0)
 				(length 5.08)
 				(name "~{LDAC}"
 					(effects
@@ -1190,7 +1190,7 @@
 				)
 			)
 			(pin power_in line
-				(at -3.81 -39.37 90)
+				(at -2.54 -39.37 90)
 				(length 5.08)
 				(name "AGND-A[2]"
 					(effects
@@ -1208,7 +1208,7 @@
 				)
 			)
 			(pin passive line
-				(at -3.81 -39.37 90)
+				(at -2.54 -39.37 90)
 				(length 5.08) hide
 				(name "AGND-A[2]"
 					(effects
